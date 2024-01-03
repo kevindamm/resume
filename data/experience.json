@@ -1,0 +1,14 @@
+{
+	"experience": [
+		{
+						"company": "Jigsaw (Alphabet)",
+						"location": "NYC",
+						"role": "Senior Software Engineer",
+						"begin": "Q4 2015",
+						"end": "Q2 2023",
+						"summary": ["Significant impact on four graduated projects, Tech Lead on a launched cybersecurity project, contributions to many other projects, primary contributor to some failed-fast efforts.  3D Printer purveyor.  Mentor.",
+                        "Jigsaw is great for its mission alignment of addressing threats to open society, and doing so with leading-edge technology in an incubator environment.  It is also very different from core Google in audience & scale & strategy; I learned many things about building for the near term, balancing ambiguity, and engaging with stakeholders of a project."
+            ]
+		}
+	]
+}
